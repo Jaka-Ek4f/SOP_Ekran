@@ -6,7 +6,7 @@ To install the Windows Client locally on the target computer using the installat
 
 1. On a web brower, go to https://github.com/Jaka-Ek4f/SOP_Ekran/
    
-2  Click and download Jaka_EkranSystemClient.zip
+2. Click and download Jaka_EkranSystemClient.zip
 ![Jaka](https://github.com/Jaka-Ek4f/SOP_Ekran/assets/156900050/b7fd678c-748a-4ca2-81e0-c17d5c2802bd)
 
 3 Launch the EkranSystemClientInst.exe installation file using an account with administrator permissions and Finished
