@@ -14,3 +14,5 @@ To install the Windows Client locally on the target computer using the installat
 
 4. Verify Ekran install status in Taskmanager, Once saw ekranclient and ekrancontrol mean You are Good!!
 ![image](https://github.com/mice-love-rice/Br9/assets/126450125/90edde2b-a528-4649-b788-768189546c55)
+
+5. Contact Ekran Administrtor to verify if the installation is successful. Thank you
